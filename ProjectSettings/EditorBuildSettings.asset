@@ -6,10 +6,13 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu/MainMenu.unity
-    guid: b2a0eb30a18dbaf4dbafd5d7b53dc46d
+    path: Assets/MainMenu/MainMenu.unity
+    guid: aead49c44430f2247888f13f6e6074d6
   - enabled: 1
-    path: Assets/Scenes/Level Selection/LevelSelection.unity
-    guid: 1b66202e79cf6d240bcdaade569988e9
+    path: Assets/LevelSelect/Level Select.unity
+    guid: 67d794024ee2974448b0a202fbe0cc16
+  - enabled: 1
+    path: Assets/Simulation/Simulation.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
